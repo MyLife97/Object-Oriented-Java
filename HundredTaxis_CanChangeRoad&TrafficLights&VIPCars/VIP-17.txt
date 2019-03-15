@@ -1,0 +1,44 @@
+This is the 1 Request of VIP-17
+Light Change Period is 5245 MS
+
+Request:[CR,(40,31),(40,40)]
+  >>  Systime:1527043123300 Departure:(40,31) Destination:(40,40) TaxiNumber:17
+VIP Taxi Info:
+  >>  TaxiNumber:17 TaxiPosition:(39,33) TaxiReputation:11
+PickRoute:
+  >>  Systime:1527043131055 Position:(39,32)
+  >>  Systime:1527043131555 Position:(39,31)
+  >>  Systime:1527043132055 Position:(40,31)
+SendRoute:
+  >>  Systime:1527043133555 Position:(40,32)
+  >>  Systime:1527043134056 Position:(40,33)
+  >>  Systime:1527043134556 Position:(40,34)
+  >>  Systime:1527043135056 Position:(40,35)
+  >>  Systime:1527043135557 Position:(40,36)
+  >>  Systime:1527043136057 Position:(40,37)
+  >>  Systime:1527043136558 Position:(40,38)
+  >>  Systime:1527043137058 Position:(40,39)
+  >>  Systime:1527043137558 Position:(40,40)
+
+This is the 1 Request of VIP-17
+Light Change Period is 5245 MS
+
+Request:[CR,(40,31),(40,40)]
+  >>  Systime:1527043123300 Departure:(40,31) Destination:(40,40) TaxiNumber:17
+VIP Taxi Info:
+  >>  TaxiNumber:17 TaxiPosition:(39,33) TaxiReputation:11
+PickRoute:
+  >>  Systime:1527043131055 Position:(39,32)
+  >>  Systime:1527043131555 Position:(39,31)
+  >>  Systime:1527043132055 Position:(40,31)
+SendRoute:
+  >>  Systime:1527043133555 Position:(40,32)
+  >>  Systime:1527043134056 Position:(40,33)
+  >>  Systime:1527043134556 Position:(40,34)
+  >>  Systime:1527043135056 Position:(40,35)
+  >>  Systime:1527043135557 Position:(40,36)
+  >>  Systime:1527043136057 Position:(40,37)
+  >>  Systime:1527043136558 Position:(40,38)
+  >>  Systime:1527043137058 Position:(40,39)
+  >>  Systime:1527043137558 Position:(40,40)
+

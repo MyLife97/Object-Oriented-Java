@@ -1,0 +1,14 @@
+Light Change Period is 5124 MS
+
+Request:[CR,(40,36),(40,40)]
+  >>  Systime:1527003785900 Departure:(40,36) Destination:(40,40) TaxiNumber:8
+VIP Taxi Info:
+  >>  TaxiNumber:8 TaxiPosition:(40,38) TaxiReputation:9
+PickRoute:
+  >>  Systime:1527003793679 Position:(40,37)
+  >>  Systime:1527003794180 Position:(40,36)
+SendRoute:
+  >>  Systime:1527003795680 Position:(40,37)
+  >>  Systime:1527003796180 Position:(40,38)
+  >>  Systime:1527003796680 Position:(40,39)
+  >>  Systime:1527003797181 Position:(40,40)

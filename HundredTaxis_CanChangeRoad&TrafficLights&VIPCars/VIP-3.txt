@@ -1,0 +1,32 @@
+This is the 1 Request of VIP-3
+Light Change Period is 5245 MS
+
+Request:[CR,(40,41),(40,40)]
+  >>  Systime:1527043123300 Departure:(40,41) Destination:(40,40) TaxiNumber:3
+VIP Taxi Info:
+  >>  TaxiNumber:3 TaxiPosition:(37,43) TaxiReputation:7
+PickRoute:
+  >>  Systime:1527043131054 Position:(38,43)
+  >>  Systime:1527043131554 Position:(38,42)
+  >>  Systime:1527043132054 Position:(38,41)
+  >>  Systime:1527043132555 Position:(39,41)
+  >>  Systime:1527043133055 Position:(40,41)
+SendRoute:
+  >>  Systime:1527043134555 Position:(40,40)
+
+This is the 1 Request of VIP-3
+Light Change Period is 5245 MS
+
+Request:[CR,(40,41),(40,40)]
+  >>  Systime:1527043123300 Departure:(40,41) Destination:(40,40) TaxiNumber:3
+VIP Taxi Info:
+  >>  TaxiNumber:3 TaxiPosition:(37,43) TaxiReputation:7
+PickRoute:
+  >>  Systime:1527043131054 Position:(38,43)
+  >>  Systime:1527043131554 Position:(38,42)
+  >>  Systime:1527043132054 Position:(38,41)
+  >>  Systime:1527043132555 Position:(39,41)
+  >>  Systime:1527043133055 Position:(40,41)
+SendRoute:
+  >>  Systime:1527043134555 Position:(40,40)
+
