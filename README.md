@@ -5,4 +5,4 @@ Several Projects in BUAA Object-Oriented Programming course, including Single-Th
 
 Most projects have conducted sufficient correctness analysis and unit tests to ensure the correctness of the system.
 
-If you have any questions about these projects, please feel free to ask me.:)
+If you have any questions about these projects, please feel free to ask me. :)
